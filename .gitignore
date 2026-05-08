@@ -1,0 +1,6 @@
+target/
+.atomic/
+.atomicignore
+.gen-history-scratch
+.ignore
+.vault/
